@@ -1,2 +1,2 @@
-# Super-Elizabeth---Diaz-Marcos
+# Super-Elizabeth
 Juego basado en Mario bros
